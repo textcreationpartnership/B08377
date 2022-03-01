@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to the case of the commoners of the manor of Epworth, in the isle of Axholme in the country of Lincoln ; published in opposition to the bill for making the statutes of Edw. 1. and Edw. 6. against destroying improvements more effectual</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>169u</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08377</idno>
+            <idno type="STC">Wing A3402</idno>
+            <idno type="STC">ESTC R170323</idno>
+            <idno type="EEBO-CITATION">64550876</idno>
+            <idno type="OCLC">ocm 64550876</idno>
+            <idno type="VID">184330</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08377)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184330)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2858:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to the case of the commoners of the manor of Epworth, in the isle of Axholme in the country of Lincoln ; published in opposition to the bill for making the statutes of Edw. 1. and Edw. 6. against destroying improvements more effectual</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>169-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Land tenure --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184330:1"/>
+            <head>
+               <hi>AN ANSWER</hi> To the <hi>CASE</hi> of the <hi>COMMONERS</hi> of the <hi>MANOR</hi> of EP<g ref="char:EOLhyphen"/>WORTH, in the Iſle of <hi>Axholme</hi> in the County of <hi>Lincoln;</hi> Publiſhed in Oppoſition to the <hi>Bill</hi> for making the Statutes of <hi>Edw. 1.</hi> and <hi>Edw. 6.</hi> againſt Deſtroying Improvements more Effectual.</head>
+            <p>THOUGH the ſaid Bill is a Publick Bill, and has no Reſpect to any particular Place; and is deſigned only to reſtrain and puniſh Offen<g ref="char:EOLhyphen"/>ders, and preſerve the Publick Peace. Yet the ſaid Commoners would inſinuate, That it is Promoted by one Mr. <hi>Reading,</hi> to ſupport an Improvement made in the ſaid Manor of <hi>Epworth,</hi> which Im<g ref="char:EOLhyphen"/>provement, they ſay, is made againſt Law. For that the Lord <hi>Mowbray,</hi> here<g ref="char:EOLhyphen"/>tofore Lord of that Manor, did approve Part, and made a Grant of the Reſi<g ref="char:EOLhyphen"/>due, by which he debarrs all future Lords from making any further Improvement. And that King <hi>Charles</hi> the Firſt, being Lord of the ſaid Manor, was prevailed on to approve and incloſe 7400 Acres, part of 13400 Acres of the Waſtes within the ſaid Manor: So that 6000 Acres were but left to the Commoners, for whom the whole were ſcarce ſufficient.</p>
+            <p>TO which it is hoped they will take this full Anſwer, That all the ſaid Common and Waſtes within the ſaid Manor, were generally Covered with Water, and they could keep but few Cattle thereon, and no Sheep</p>
+            <p>THAT King <hi>Charles</hi> the I. being Lord of the ſaid Manor, agreed with Sir <hi>Cor<g ref="char:EOLhyphen"/>nelius Vermuyden</hi> and others, to Dreyn the ſame, which they Undertook and Per<g ref="char:EOLhyphen"/>formed at a vaſt Expence, and have ever ſince kept the ſame Dry; ſo that the Ground, which before was a Pond, is now Firm and dry Land.</p>
+            <p>FOR which Expence, and for Keeping up and Maintaining the Dreynage, the ſaid Sir <hi>Cornelius</hi> and his Partners, commonly call'd Participants, had 7400 Acres Aſſigned to them by the King, by Conſent of the Commoners, which they Enjoyed divers Years before the Civil Wars; in which Wars, the Commoners laid all waſte; the Commoners thinking the Participants had too much Ground, frequent Suits and Troubles were moved and carried on about the ſame; all which were, in <hi>April</hi> 1688. referred to the Honourable <hi>Sydney Wortley</hi> Eſq Sir <hi>Thomas Huſsey,</hi> Sir <hi>Wil<g ref="char:EOLhyphen"/>loughby Hickman,</hi> Sir <hi>John Boynton, George Whitchcott</hi> Eſq and <hi>John Ramſden</hi> Eſq the laſt Five whereof met and made an Award therein in <hi>April</hi> 1688, at the Re<g ref="char:EOLhyphen"/>queſt and by the Conſent of all Parties. That afterwards ſome Diſturbance hap<g ref="char:EOLhyphen"/>pening about the Conſtruction of ſome Words in the ſaid Award, the Suits went on again, and came to hearing in the Exhequer Chamber, in <hi>April</hi> and <hi>May</hi> 1691, when and where, by the Advice of that Court, the Commoners and Partici<g ref="char:EOLhyphen"/>pants came to a ſurther Conſideration of the ſaid Differences, and to an Acommo<g ref="char:EOLhyphen"/>dation concerning the ſame, which was reduced into Writing, and brought to the Court, and there Signed by all Parties, and by Conſent Decreed by the ſaid Court to ſtand, and for ever to be effectual, by which Agreement and Decree, the Participants were content, for Quietneſs ſake, to accept of 2800 Acres or thereabouts, in ſatisfaction of the 7400 Acres, and left the reſt to the Commoners; which 2800 Acres were by Commiſſioners on both ſides, Set out and Divided by Conſent of the Commoners, and the Participants Encloſed the greateſt Part thereof; but the Commoners, notwithſtanding their ſo many and ſo Solemn Agreements, and the Decrees thereon, have every Year, a little before Harveſt, Pull'd down and De<g ref="char:EOLhyphen"/>ſtroyed the ſaid Incloſures, and the Corn thereon, either in the Night-time, or in Diſguiſes in the Day-time; and this laſt Summer, have in the Day-time in Diſguiſes, Pull'd down divers Dwelling-Houſes, and many great Barns, Stables, and other Out-Houſes <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <div type="part">
+               <pb facs="tcp:184330:2" rendition="simple:additions"/>
+               <p>I would inſinuate, That it is Promoted by one Mr. <hi>Reading,</hi> to ſupport an Improvement made in the ſaid Manor of <hi>Epworth,</hi> which Im<g ref="char:EOLhyphen"/>provement, they ſay, is made againſt Law. For that the Lord <hi>Mowbray,</hi> here<g ref="char:EOLhyphen"/>tofore Lord of that Manor, did approve Part, and made a Grant of the Reſi<g ref="char:EOLhyphen"/>due, by which he debarrs all future Lords from making any further Improvement. And that King <hi>Charles</hi> the Firſt, being Lord of the ſaid Manor, was prevailed on to approve and incloſe 7400 Acres, part of 13400 Acres of the Waſtes within the ſaid Manor: So that 6000 Acres were but left to the Commoners, for whom the whole were ſcarce ſufficient.</p>
+               <p>TO which it is hoped they will take this full Anſwer, That all the ſaid Common and Waſtes within the ſaid Manor, were generally Covered with Water, and they could keep but few Cattle thereon, and no Sheep</p>
+               <p>THAT King <hi>Charles</hi> the I. being Lord of the ſaid Manor, agreed with Sir <hi>Cor<g ref="char:EOLhyphen"/>nelius Vermuyden</hi> and others, to Dreyn the ſame, which they Undertook and Per<g ref="char:EOLhyphen"/>formed at a vaſt Expence, and have ever ſince kept the ſame Dry; ſo that the Ground, which before was a Pond, is now Firm and dry Land.</p>
+               <p>FOR which Expence, and for Keeping up and Maintaining the Dreynage, the ſaid Sir <hi>Cornelius</hi> and his Partners, commonly call'd Participants, had 7400 Acres Aſſigned to them by the King, by Conſent of the Commoners, which they Enjoyed divers Years before the Civil Wars; in which Wars, the Commoners laid all waſte; the Commoners thinking the Participants had too much Ground, frequent Suits and Troubles were moved and carried on about the ſame; all which were, in <hi>April</hi> 1688. referred to the Honourable <hi>Sydney Wortley</hi> Eſq Sir <hi>Thomas Huſsey,</hi> Sir <hi>Wil<g ref="char:EOLhyphen"/>loughby Hickman,</hi> Sir <hi>John Boynton, George Whitchcott</hi> Eſq and <hi>John Ramſden</hi> Eſq the laſt Five whereof met and made an Award therein in <hi>April</hi> 1688, at the Re<g ref="char:EOLhyphen"/>queſt and by the Conſent of all Parties. That afterwards ſome Diſturbance hap<g ref="char:EOLhyphen"/>pening about the Conſtruction of ſome Words in the ſaid Award, the Suits went on again, and came to hearing in the Exhequer Chamber, in <hi>April</hi> and <hi>May</hi> 1691, when and where, by the Advice of that Court, the Commoners and Partici<g ref="char:EOLhyphen"/>pants came to a further Conſideration of the ſaid Differences, and to an Acommo<g ref="char:EOLhyphen"/>dation concerning the ſame, which was reduced into Writing, and brought to the Court, and there Signed by all Parties, and by Conſent Decreed by the ſaid Court to ſtand, and for ever to be effectual, by which Agreement and Decree, the Participants were content, for Quietneſs ſake, to accept of 2800 Acres or thereabouts, in ſatisfaction of the 7400 Acres, and left the reſt to the Commoners; which 2800 Acres were by Commiſſioners on both ſides, Set out and Divided by Conſent of the Commoners, and the Participants Encloſed the greateſt Part thereof; but the Commoners, notwithſtanding their ſo many and ſo Solemn Agreements, and the Decrees thereon, have every Year, a little before Harveſt, Pull'd down and De<g ref="char:EOLhyphen"/>ſtroyed the ſaid Incloſures, and the Corn thereon, either in the Night-time, or in Diſguiſes in the Day-time; and this laſt Summer, have in the Day-time in Diſguiſes, Pull'd down divers Dwelling-Houſes, and many great Barns, Stables, and other Out-Houſes and Incloſures, belonging to the Right Honourable the Lord Viſcount <hi>Irwin,</hi> a Member of this Honourable Houſe, and to divers other Perſons, and with much Corn growing thereon, to a great value; and for their Excuſe, do make ſome frivo<g ref="char:EOLhyphen"/>lous Pretences and Allegations againſt the ſaid Mr. <hi>Reading,</hi> who neither promoted, knew of, or is concern'd in the ſaid Bill depending in this Honourable Houſe.</p>
+            </div>
+            <argument>
+               <p>
+                  <hi>Note,</hi> THE Commoners have 12000 or 13000 Acres of Common, which would all of it be Covered with Water, was it not for the Banks and Sluces, that are Maintain'd by the Participants at a vaſt Expence; and yet when any Perſons are guilty of the Outrages before-mentioned, the Inha<g ref="char:EOLhyphen"/>bitants of the adjacent Towns Protect and Conceal them; ſo that it is ſcarce poſſible to Apprehend them by any Proceſs or Warrant, and if Ap<g ref="char:EOLhyphen"/>prehended, they defend them at a Publick Charge.</p>
+            </argument>
+         </div>
+      </body>
+   </text>
+</TEI>
